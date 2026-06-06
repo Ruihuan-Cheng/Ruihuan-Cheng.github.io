@@ -41,4 +41,4 @@ My research focuses on understanding heat transport in crystalline materials thr
 * Email: [chengrh1@hku.hk](mailto:chengrh1@hku.hk) / [chengrh@connect.hku.hk](mailto:chengrh@connect.hku.hk) / [chengruihuan920@gmail.com](mailto:chengruihuan920@gmail.com)
 * Tel: +852-92052133 / +86-17854262206
 * Corresponding address: Room P5-03, Graduate House, The University of Hong Kong, Pokfulam Road, Hong Kong SAR, China
-* [Google Scholar](urlto:https://scholar.google.com.hk/citations?user=wG_KD1IAAAAJ&hl=en&oi=ao), [ResearchGate](urlto:https://www.researchgate.net/profile/Ruihuan-Cheng?ev=hdr_xprf), [ORCID](urlto:https://orcid.org/0000-0003-3920-5292),  and [GitHub](urlto:https://github.com/Ruihuan-Cheng) links are available in the sidebar.
+* [Google Scholar](https://scholar.google.com.hk/citations?user=wG_KD1IAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Ruihuan-Cheng?ev=hdr_xprf), [ORCID](https://orcid.org/0000-0003-3920-5292),  and [GitHub](https://github.com/Ruihuan-Cheng) links are available in the sidebar.
