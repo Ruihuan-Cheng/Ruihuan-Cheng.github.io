@@ -16,7 +16,8 @@ timezone:
 
 title: Ruihuan Cheng # the main title
 
-tagline: Thermal Transport | Phonon Physics | Machine Learning Potentials
+tagline: Research Associate @ The University of Hong Kong
+#tagline: Thermal Transport | Phonon Physics | Machine Learning Potentials
 
 description: >- # used by seo meta and the atom feed
   Personal academic website of Ruihuan Cheng, focusing on lattice dynamics,
@@ -101,7 +102,9 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/Cheng_Ruihuan.jpg
+social:
+  name: Ruihuan Cheng
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
