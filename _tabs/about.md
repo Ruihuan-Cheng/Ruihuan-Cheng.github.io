@@ -20,7 +20,7 @@ My research focuses on understanding heat transport in crystalline materials thr
 * Dynamic disorder and superionic conductors
 * AI for materials discovery
 
-## Research Interests
+## Academic Positions
 
 * Research Associate, Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, China, 2025.09 -- Present
 * Assistant Researcher (CSC Project), The Petroleum Institute, Khalifa University of Science & Technology, Abu Dhabi, UAE, 2018.01 -- 2018.07
