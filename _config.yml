@@ -102,7 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/Cheng_Ruihuan.jpeg
+avatar: /assets/img/Cheng_Ruihuan.jpeg
 social:
   name: Ruihuan Cheng
 
