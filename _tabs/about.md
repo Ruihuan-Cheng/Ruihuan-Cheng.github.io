@@ -34,9 +34,7 @@ My research focuses on understanding heat transport in crystalline materials thr
 
 ## Contact
 
-Email: [chengrh1@hku.hk](mailto:chengrh1@hku.hk) / [chengrh@connect.hku.hk](mailto:chengrh@connect.hku.hk) /[chengruihuan920@gmail.com](mailto:chengruihuan920@gmail.com)
+Email: [chengrh1@hku.hk](mailto:chengrh1@hku.hk) / [chengrh@connect.hku.hk](mailto:chengrh@connect.hku.hk) / [chengruihuan920@gmail.com](mailto:chengruihuan920@gmail.com)
 
 Google Scholar, ORCID, ResearchGate, and GitHub links are available in the sidebar.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
