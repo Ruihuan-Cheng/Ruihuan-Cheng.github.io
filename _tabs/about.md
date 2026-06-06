@@ -33,14 +33,12 @@ My research focuses on understanding heat transport in crystalline materials thr
 * B.Eng., Petroleum Engineering, Institute of Petroleum Engineering, China University of Petroleum (East China), 2014.09 -- 2018.06
 
 ## Teaching
-Teaching Assistant for MECH3407 Advanced Partial Differential Equations and Complex Variables, The University of Hong Kong, 2022.09 -- 2025.09
-Certificate in Teaching and Learning in Higher Education, The University of Hong Kong, 2024.03
+* Teaching Assistant for MECH3407 Advanced Partial Differential Equations and Complex Variables, The University of Hong Kong, 2022.09 -- 2025.09
+* Certificate in Teaching and Learning in Higher Education, The University of Hong Kong, 2024.03
 
 ## Contact
 
-Email: [chengrh1@hku.hk](mailto:chengrh1@hku.hk) / [chengrh@connect.hku.hk](mailto:chengrh@connect.hku.hk) / [chengruihuan920@gmail.com](mailto:chengruihuan920@gmail.com)
-Tel: +852-92052133 / +86-17854262206
-Corresponding address: Room P5-03, Graduate House, The University of Hong Kong, Pokfulam Road, Hong Kong SAR, China
-
-Google Scholar, ORCID, ResearchGate, and GitHub links are available in the sidebar.
-
+* Email: [chengrh1@hku.hk](mailto:chengrh1@hku.hk) / [chengrh@connect.hku.hk](mailto:chengrh@connect.hku.hk) / [chengruihuan920@gmail.com](mailto:chengruihuan920@gmail.com)
+* Tel: +852-92052133 / +86-17854262206
+* Corresponding address: Room P5-03, Graduate House, The University of Hong Kong, Pokfulam Road, Hong Kong SAR, China
+* Google Scholar, ORCID, ResearchGate, and GitHub links are available in 
