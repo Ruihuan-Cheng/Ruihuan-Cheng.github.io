@@ -22,9 +22,9 @@ border-radius:12px;
 
 * **2025.10** Continued research at HKU as a Research Associate.
 * **2025.09** Successfully completed PhD studies in Mechanical Engineering at The University of Hong Kong.
-* **2025.08** Published *Strong Crystalline Thermal Insulation Induced by Extended Antibonding States* in *Nature Communications*.
-* **2025.06** Published *Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>* in *Newton*.
-* **2024.06** Presented research at the Joint 40th International and 20th European Thermoelectric Conference (ICT/ECT).
+* **2025.08** Published **Strong Crystalline Thermal Insulation Induced by Extended Antibonding States** in **Nature Communications**.
+* **2025.06** Published **Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>** in **Newton**.
+* **2024.06** Presented research at the **Joint 40th International and 20th European Thermoelectric Conference (ICT/ECT)**.
 
 ---
 
