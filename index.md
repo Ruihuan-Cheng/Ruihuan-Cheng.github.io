@@ -1,8 +1,7 @@
 ---
 
-layout: page
+layout: home
 title: Home
-permalink: /
 ------------
 
 <div style="margin-top:-2rem;margin-bottom:3rem;">
