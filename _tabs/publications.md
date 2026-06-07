@@ -142,7 +142,9 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 <td width="85%">
 
 **Molecular Insights into the Correlation between Microstructure and Thermal Conductivity of Zeolitic Imidazolate Frameworks**  
+
 **Ruihuan Cheng**, Wei Li, Wei Wei, Jun Huang, and Song Li*   
+
 [*ACS Applied Materials & Interfaces*, 13(12), 14141–14149 (2021)](https://pubs.acs.org/doi/abs/10.1021/acsami.0c21220)
 
 </td>
@@ -165,7 +167,9 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 <td width="85%">
 
 **Revisit Many-body Interaction Heat Current and Thermal Conductivity Calculation using the Moment Tensor Potential–LAMMPS Interface**
-**Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
+
+Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
+
 [*Journal of Chemical Theory and Computation*, 21(7), 3649–3657 (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c01659)
 
 </td>
