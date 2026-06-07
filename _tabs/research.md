@@ -14,19 +14,18 @@ My research focuses on understanding and engineering heat transport in energy ma
 
 <table>
 <tr>
+<td width="60%" markdown="1">
+
+<b>Thermal Transport in Complex Materials</b>
+
+Heat transport in many energy materials cannot be adequately described by conventional transport theories due to strong anharmonicity, structural complexity, dynamic disorder, and phase instability.
+
+My research seeks to uncover the microscopic mechanisms governing thermal transport in complex crystalline systems and establish general physical principles for controlling heat conduction across different classes of materials.
+
+</td>
 <td width="40%">
 
 <img src="/assets/img/Research/LowK.jpg" alt="Thermal Transport in Complex Materials">
-
-</td>
-
-<td width="60%">
-
-<h2>Thermal Transport in Complex Materials<h2>
-
-<p>Heat transport in many energy materials cannot be adequately described by conventional transport theories due to strong anharmonicity, structural complexity, dynamic disorder, and phase instability.<p>
-
-<p>My research seeks to uncover the microscopic mechanisms governing thermal transport in complex crystalline systems and establish general physical principles for controlling heat conduction across different classes of materials.<p>
 
 </td>
 </tr>
@@ -42,7 +41,7 @@ My research focuses on understanding and engineering heat transport in energy ma
 
 </td>
 
-<td width="60%">
+<td width="60%" markdown="1">
 
 <h2>Anharmonic Lattice Dynamics<h2>
 
@@ -64,7 +63,7 @@ My research focuses on understanding and engineering heat transport in energy ma
 
 </td>
 
-<td width="60%">
+<td width="60%" markdown="1">
   
 <h2>Machine-Learning Interatomic Potential Enabled Molecular Dynamics Simulations<h2>
 
@@ -87,7 +86,7 @@ My research focuses on understanding and engineering heat transport in energy ma
 
 </td>
 
-<td width="60%">
+<td width="60%" markdown="1">
   
 <h2>Heat and Mass Transfer in Energy Materials<h2>
 
@@ -110,7 +109,7 @@ My research focuses on understanding and engineering heat transport in energy ma
 
 </td>
 
-<td width="60%">
+<td width="60%" markdown="1">
   
 <h2>AI-Driven Materials Discovery<h2>
 
