@@ -4,13 +4,6 @@ icon: fas fa-microscope
 order: 2
 ---
 
----
-
-title: Research
-icon: fas fa-microscope
-order: 2
---------
-
 # Research Vision
 
 My research focuses on understanding and engineering heat transport in energy materials through a combination of physics-based modeling, machine-learning techniques, and data-driven materials discovery. By integrating atomistic simulations, lattice dynamics, and artificial intelligence, I aim to establish quantitative structure–property relationships that enable the rational design of materials with targeted thermal transport properties.
