@@ -16,12 +16,12 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/NC_2025.png" alt="Nature Communications cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Strong Crystalline Thermal Insulation Induced by Extended Antibonding States**  
 
@@ -35,12 +35,12 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/Newton_2025.jpg" alt="Newton cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>**  
 
@@ -58,12 +58,12 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/PRB_2024.png" alt="Physical Review B cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Impact of Strain-Insensitive Low-Frequency Phonon Modes on Lattice Thermal Transport in A<sub>2</sub>XB<sub>6</sub>-type Perovskites**  
 
@@ -81,12 +81,12 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/PRB_2023.png" alt="Physical Review B cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Lattice Dynamics and Thermal Transport of PbTe under High Pressure**  
 
@@ -100,12 +100,12 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/JPCB_2023.jpg" alt="Journal of Physical Chemistry B cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Understanding the Heat Transfer Performance of Zeolitic Imidazolate Frameworks upon Gas Adsorption by Molecular Dynamics Simulations**  
 
@@ -123,12 +123,12 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/NC_2022.png" alt="Nature Communications cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Polyamide-based Membranes with Structural Homogeneity for Ultrafast Molecular Sieving**  
 
@@ -146,12 +146,12 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/ACSAMI_2021.jpg" alt="ACS Applied Materials and Interfaces cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Molecular Insights into the Correlation between Microstructure and Thermal Conductivity of Zeolitic Imidazolate Frameworks**  
 
@@ -173,12 +173,12 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/JCTC_2025.jpg" alt="Journal of Chemical Theory and Computation cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Revisit Many-body Interaction Heat Current and Thermal Conductivity Calculation using the Moment Tensor Potential–LAMMPS Interface**
 
@@ -192,12 +192,12 @@ Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/PRB_2025.png" alt="Physical Review B cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Positive Temperature-Dependent Thermal Conductivity induced by Wave-like Phonons in Complex Ag-based Argyrodites**
 
@@ -215,12 +215,12 @@ Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, **Ruihuan Cheng**, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/NC_2024.png" alt="Nature Communications cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Pushing Thermal Conductivity to its Lower Limit in Crystals with Simple Structures**
 
@@ -234,12 +234,12 @@ Zezhu Zeng#, Xingchen Shen#, **Ruihuan Cheng**, Olivier Perez, Niuchang Ouyang, 
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/AFM_2024.jpg" alt="Advanced Functional Materials cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Switching from Negative to Positive Thermal Expansion of Porphyrin-based Metal-Organic Frameworks through Post-Metallization**
 
@@ -253,12 +253,12 @@ Zhanning Liu*, **Ruihuan Cheng**, Rui Ma, Chengyong Xing, Jian Tian, Yue Chen, a
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/InfoMat_2024.jpg" alt="InfoMat cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Enhanced Thermoelectric Performance and Mechanical Strength in GeTe Enable Power Generation and Cooling**
 
@@ -272,12 +272,12 @@ Jianglong Zhu, Fujie Zhang, Yilin Tai, Xiaobo Tan, Qian Deng, Pengfei Nan*, **Ru
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/CEJ_2024.jpg" alt="Chemical Engineering Journal cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Functionally Separated Electronic Band Engineering via Multi-Element Doping plus High-Density Defects Advances Broad-Temperature-Range Thermoelectric Performance in GeTe**
 
@@ -291,12 +291,12 @@ Jianglong Zhu, Xiaobo Tan, Dong Pan, Yanni Luo, Ruiheng Li, Xuri Rao, **Ruihuan 
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/APL_2024.jpeg" alt="Applied Physics Letters cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Effects of Local Chemical Ordering on the Thermal Transport in Entropy-Regulated PbSe-based Thermoelectric Materials**
 
@@ -310,12 +310,12 @@ Shuang Lyu, **Ruihuan Cheng**, Haiqi Li, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/ActaChemChina_2024.jpg" alt="Acta Chimica Sinica cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Molecular Dynamics Simulation Study on the Thermal Conductivity of Zeolitic Imidazolate Framework/n-Eicosane Composite Phase Change Materials**
 
@@ -333,12 +333,12 @@ Zijian Tan, Teng Wu, Yajun Qiao, **Ruihuan Cheng**, Wei Li*, and Weixiong Wu
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/MTP_2023.jpg" alt="Materials Today Physics cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Enhanced Thermoelectric Performance of p-type Bi<sub>2</sub>Si<sub>2</sub>Te<sub>6</sub> Enabled via Synergistically Optimizing Carrier Concentration and Suppressing Bipolar Effect**
 
@@ -352,12 +352,12 @@ Dongyi Shen, **Ruihuan Cheng**, Wenxuan Wang, Haiqi Li, Chen Chen, Qian Zhang, a
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/CM_2023.jpg" alt="Chemistry of Materials cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Theoretical Evaluation of the Persistence of Transverse Phonons across a Liquid-like Transition in Superionic Conductor KAg<sub>3</sub>Se<sub>2</sub>**
 
@@ -371,12 +371,12 @@ Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/Langmuir_2023.jpg" alt="Langmuir cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Ammonia Adsorption Performance of Zeolitic Imidazolate Frameworks for Cooling**
 
@@ -390,12 +390,12 @@ Zhilu Liu, **Ruihuan Cheng**, Juyeong Kim, and Song Li*
 
 <table>
 <tr>
-<td width="15%">
+<td width="15%" markdown="1">
 
 <img src="/assets/img/Publications/PCCP_2023.png" alt="Physical Chemistry Chemical Physics cover">
 
 </td>
-<td width="85%">
+<td width="85%" markdown="1">
 
 **Understanding the Influence of Secondary Building Units on the Thermal Conductivity of Metal–Organic Frameworks via High-Throughput Computational Screening**
 
