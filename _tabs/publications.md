@@ -405,7 +405,7 @@ Chen Wang, <b>Ruihuan Cheng</b>, and Yue Chen*
 <tr>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
-<b>Ammonia Adsorption Performance of Zeolitic Imidazolate Frameworks for Cooling</b>
+<b>Ammonia Adsorption Performance of Zeolitic Imidazolate Frameworks for Cooling                     </b>
 </h4>
 
 <h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
