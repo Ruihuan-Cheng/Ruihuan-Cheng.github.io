@@ -28,7 +28,9 @@ A complete list of publications & presentations is available on my [Google Schol
 </p>
 
 <p style="font-size:1.1rem;font-weight:600;margin-bottom:8px;">
+<h4 style="white-space: normal;">
 <b>Ruihuan Cheng</b>, Chen Wang, Niuchang Ouyang, Christophe Candolfi, Emmanuel Guilmeau, Xingchen Shen*, and Yue Chen*   
+<h4 style="white-space: normal;">
 </p>
 [*Nature Communications*, 16(1), 7941 (2025) ](https://www.nature.com/articles/s41467-025-63300-w)
 
