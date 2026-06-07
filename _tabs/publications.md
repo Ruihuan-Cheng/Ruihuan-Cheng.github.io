@@ -8,7 +8,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 **Author Contribution Notation**
 
-* *Corresponding author, # Co-first author
+* * Corresponding author, # Co-first author
 ---
 
 # First & Corresponding Author Publications 
@@ -16,6 +16,11 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
+<td width="15%">
+
+<img src="/assets/img/Publications/NC_2025.png" alt="Nature Communications cover" width="100">
+
+</td>
 <td width="85%">
 
 **Strong Crystalline Thermal Insulation Induced by Extended Antibonding States**  
@@ -23,26 +28,21 @@ A complete list of publications & presentations is available on my [Google Schol
 [*Nature Communications*, 16(1), 7941 (2025) ](https://www.nature.com/articles/s41467-025-63300-w)
 
 </td>
-<td width="15%">
-
-<img src="/assets/img/Publications/NC_2025.png" alt="Nature Communications cover" width="100">
-
-</td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td width="15%">
+
+<img src="/assets/img/Publications/Newton_2025.jpg" alt="Newton cover" width="100">
+
+</td>
 <td width="85%">
 
 **Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>**  
 **Ruihuan Cheng**, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*    
 [*Newton*, 1(4), 100090 (2025)](https://www.cell.com/newton/fulltext/S2950-6360(25)00082-9)
-
-</td>
-<td width="15%">
-
-<img src="/assets/img/Publications/Newton_2025.jpg" alt="Newton cover" width="100">
 
 </td>
 </tr>
@@ -54,16 +54,16 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
+<td width="15%">
+
+<img src="/assets/img/Publications/PRB_2024.png" alt="Physical Review B cover" width="100">
+
+</td>
 <td width="85%">
 
 **Impact of Strain-Insensitive Low-Frequency Phonon Modes on Lattice Thermal Transport in A<sub>2</sub>XB<sub>6</sub>-type Perovskites**  
 **Ruihuan Cheng**, Zezhu Zeng, Chen Wang, Niuchang Ouyang, and Yue Chen*   
 [*Physical Review B*, 109(5), 054305 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.054305)
-
-</td>
-<td width="15%">
-
-<img src="/assets/img/Publications/PRB_2024.png" alt="Physical Review B cover" width="100">
 
 </td>
 </tr>
@@ -75,16 +75,16 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
+<td width="15%">
+
+<img src="/assets/img/Publications/PRB_2023.png" alt="Physical Review B cover" width="100">
+
+</td>
 <td width="85%">
 
 **Lattice Dynamics and Thermal Transport of PbTe under High Pressure**  
 **Ruihuan Cheng**, Xingchen Shen, Stefan Klotz, Zezhu Zeng, Zehua Li, Alexandre Ivanov, Yu Xiao, Li-Dong Zhao, Frank Weber*, and Yue Chen*    
-[*Physical Review B*, 108(10), 104306 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104306) | [Google Scholar](你的GoogleScholar链接)
-
-</td>
-<td width="15%">
-
-<img src="/assets/img/Publications/PRB_2023.png" alt="Physical Review B cover" width="100">
+[*Physical Review B*, 108(10), 104306 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104306)
 
 </td>
 </tr>
@@ -92,16 +92,16 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
+<td width="15%">
+
+<img src="/assets/img/Publications/JPCB_2023.jpg" alt="Journal of Physical Chemistry B cover" width="100">
+
+</td>
 <td width="85%">
 
 **Understanding the Heat Transfer Performance of Zeolitic Imidazolate Frameworks upon Gas Adsorption by Molecular Dynamics Simulations**  
 **Ruihuan Cheng**, Wei Wei, Jincheng Zhang, and Song Li*    
 [*The Journal of Physical Chemistry B*, 127(43), 9390–9398 (2023)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c04372)
-
-</td>
-<td width="15%">
-
-<img src="/assets/img/Publications/JPCB_2023.jpg" alt="Journal of Physical Chemistry B cover" width="100">
 
 </td>
 </tr>
@@ -113,16 +113,16 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
+<td width="15%">
+
+<img src="/assets/img/Publications/NC_2022.png" alt="Nature Communications cover" width="100">
+
+</td>
 <td width="85%">
 
 **Polyamide-based Membranes with Structural Homogeneity for Ultrafast Molecular Sieving**  
 Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tian, Xuan Zhang, Shudong Jiang, Song Li*, and Yan Wang*    
 [*Nature Communications*, 13(1), 500 (2022)](https://www.nature.com/articles/s41467-022-28183-1)
-
-</td>
-<td width="15%">
-
-<img src="/assets/img/Publications/NC_2022.png" alt="Nature Communications cover" width="100">
 
 </td>
 </tr>
@@ -134,16 +134,16 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 
 <table>
 <tr>
+<td width="15%">
+
+<img src="/assets/img/Publications/ACSAMI_2021.jpg" alt="ACS Applied Materials and Interfaces cover" width="100">
+
+</td>
 <td width="85%">
 
 **Molecular Insights into the Correlation between Microstructure and Thermal Conductivity of Zeolitic Imidazolate Frameworks**  
 **Ruihuan Cheng**, Wei Li, Wei Wei, Jun Huang, and Song Li*   
 [*ACS Applied Materials & Interfaces*, 13(12), 14141–14149 (2021)](https://pubs.acs.org/doi/abs/10.1021/acsami.0c21220)
-
-</td>
-<td width="15%">
-
-<img src="/assets/img/Publications/ACSAMI_2021.jpg" alt="ACS Applied Materials and Interfaces cover" width="100">
 
 </td>
 </tr>
@@ -160,6 +160,7 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 <td width="100%">
 
 **Revisit Many-body Interaction Heat Current and Thermal Conductivity Calculation using the Moment Tensor Potential–LAMMPS Interface**
+
 Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 [*Journal of Chemical Theory and Computation*, 21(7), 3649–3657 (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c01659)
 
