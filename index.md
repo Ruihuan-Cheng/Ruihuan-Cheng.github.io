@@ -19,8 +19,8 @@ border-radius:12px;
 # Ruihuan Cheng
 
 Research Associate
-Department of Mechanical Engineering
-The University of Hong Kong
+
+Department of Mechanical Engineering, The University of Hong Kong
 
 ---
 
