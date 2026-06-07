@@ -8,9 +8,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 **Author Contribution Notation**
 
-* Corresponding author
-
-# Co-first author
+* Corresponding author, # Co-first author
 ---
 
 # First & Corresponding Author Publications 
