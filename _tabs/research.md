@@ -12,12 +12,25 @@ My research focuses on understanding and engineering heat transport in energy ma
 
 # Research Areas
 
+<table>
+<tr>
+<td width="40%">
+
+<img src="/assets/img/LowK.jpg">
+
+</td>
+
+<td width="60%">
+
 ## Thermal Transport in Complex Materials
 
 Heat transport in many energy materials cannot be adequately described by conventional transport theories due to strong anharmonicity, structural complexity, dynamic disorder, and phase instability.
 
 My research seeks to uncover the microscopic mechanisms governing thermal transport in complex crystalline systems and establish general physical principles for controlling heat conduction across different classes of materials.
 
+</td>
+</tr>
+</table>
 ---
 
 ## Anharmonic Lattice Dynamics
