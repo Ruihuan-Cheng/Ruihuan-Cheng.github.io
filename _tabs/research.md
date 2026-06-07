@@ -15,7 +15,7 @@ My research focuses on understanding and engineering heat transport in energy ma
 <table>
 <tr>
 <td width="60%" markdown="1">
-<h4 style="white-space: normal; font-size: 1.2rem;">
+<h4 style="white-space: normal; font-size: 1.3rem;">
 <b>Thermal Transport in Complex Materials</b>
 </h4>
 
@@ -39,7 +39,7 @@ My research seeks to uncover the microscopic mechanisms governing thermal transp
 <table>
 <tr>
 <td width="60%" markdown="1">
-<h4 style="white-space: normal; font-size: 1.2rem;">
+<h4 style="white-space: normal; font-size: 1.3rem;">
 <b>Anharmonic Lattice Dynamics</b>
 </h4>
 
@@ -63,7 +63,7 @@ I investigate the interplay between lattice dynamics, multiphonon interactions, 
 <table>
 <tr>
 <td width="60%" markdown="1">
-<h4 style="white-space: normal; font-size: 1.2rem;">
+<h4 style="white-space: normal; font-size: 1.3rem;">
 <b>Machine-Learning Interatomic Potential Enabled Molecular Dynamics Simulations</b>
 </h4>
 
@@ -88,7 +88,7 @@ My work focuses on developing and applying machine-learning frameworks to study 
 <table>
 <tr>
 <td width="60%" markdown="1">
-<h4 style="white-space: normal; font-size: 1.2rem;">
+<h4 style="white-space: normal; font-size: 1.3rem;">
 <b>Heat and Mass Transfer in Energy Materials</b>
 </h4>
 
@@ -113,7 +113,7 @@ My research explores the interactions between thermal transport, molecular diffu
 <table>
 <tr>
 <td width="60%" markdown="1">
-<h4 style="white-space: normal; font-size: 1.2rem;">
+<h4 style="white-space: normal; font-size: 1.3rem;">
 <b>AI-Driven Materials Discovery</b>
 </h4>
 
