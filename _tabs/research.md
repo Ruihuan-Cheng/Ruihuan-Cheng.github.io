@@ -65,6 +65,7 @@ I investigate the interplay between lattice dynamics, multiphonon interactions, 
 </td>
 
 <td width="60%">
+  
 ## Machine-Learning Interatomic Potential Enabled Molecular Dynamics Simulations
 
 Machine-learning interatomic potentials provide a powerful route to bridge the gap between first-principles accuracy and large-scale molecular simulations.
@@ -87,6 +88,7 @@ My work focuses on developing and applying machine-learning frameworks to study 
 </td>
 
 <td width="60%">
+  
 ## Heat and Mass Transfer in Energy Materials
 
 Many emerging energy systems involve coupled heat and mass transport processes that govern overall performance and efficiency.
@@ -109,6 +111,7 @@ My research explores the interactions between thermal transport, molecular diffu
 </td>
 
 <td width="60%">
+  
 ## AI-Driven Materials Discovery
 
 A long-term goal of my research is to develop autonomous computational workflows that combine artificial intelligence, high-throughput simulations, and physics-based modeling for accelerated materials discovery.
