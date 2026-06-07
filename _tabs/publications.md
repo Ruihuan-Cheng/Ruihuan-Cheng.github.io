@@ -11,7 +11,7 @@ order: 3
 - \* Corresponding author, # Co-first author
 ---
 
-# First & Corresponding Author Publications 
+# First / Corresponding Author Publications 
 ## 2025
 
 <table>
