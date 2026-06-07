@@ -26,12 +26,11 @@ Department of Mechanical Engineering, The University of Hong Kong
 
 ## Recent News
 
-* **2025.08** Successfully completed PhD studies in Mechanical Engineering at The University of Hong Kong.
-* **2025.08** Continued research at HKU as a Research Associate.
-* **2025.04** Published *Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu₄TiSe₄* in *Newton*.
-* **2025.03** Published *Strong Crystalline Thermal Insulation Induced by Extended Antibonding States* in *Nature Communications*.
-* **2024.12** Presented research at the Joint 40th International and 20th European Thermoelectric Conference (ICT/ECT).
-* **2023.03** Presented work on pressure-dependent lattice dynamics of PbTe at the APS March Meeting.
+* **2025.10** Continued research at HKU as a Research Associate.
+* **2025.09** Successfully completed PhD studies in Mechanical Engineering at The University of Hong Kong.
+* **2025.08** Published *Strong Crystalline Thermal Insulation Induced by Extended Antibonding States* in *Nature Communications*.
+* **2025.06** Published *Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>* in *Newton*.
+* **2024.06** Presented research at the Joint 40th International and 20th European Thermoelectric Conference (ICT/ECT).
 
 ---
 
@@ -43,30 +42,39 @@ Department of Mechanical Engineering, The University of Hong Kong
 
 **Ruihuan Cheng**, Chen Wang, Niuchang Ouyang, Christophe Candolfi, Emmanuel Guilmeau, Xingchen Shen*, and Yue Chen*
 
-[*Nature Communications*, 16, 7941 (2025)](https://www.nature.com/articles/s41467-025-63300-w)
+[*Nature Communications*, 16(1), 7941 (2025) ](https://www.nature.com/articles/s41467-025-63300-w)
 
 ---
 
 ### Newton (2025)
 
-**Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu₄TiSe₄**
+**Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>**
 
 **Ruihuan Cheng**, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*
 
-[*Newton*, 1(4), 100090 (2025)](https://www.cell.com/newton/fulltext/S2950-6360%2825%2900082-9)
+[*Newton*, 1(4), 100090 (2025)](https://www.cell.com/newton/fulltext/S2950-6360(25)00082-9)
 
 ---
 
-### Physical Review B (2024)
+### Nature Communications (2022)
 
-**Impact of Strain-Insensitive Low-Frequency Phonon Modes on Lattice Thermal Transport in A₂XB₆-type Perovskites**
+**Polyamide-based Membranes with Structural Homogeneity for Ultrafast Molecular Sieving**
 
-**Ruihuan Cheng**, Zezhu Zeng, Chen Wang, Niuchang Ouyang, and Yue Chen*
+Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tian, Xuan Zhang, Shudong Jiang, Song Li*, and Yan Wang*
 
-[*Physical Review B*, 109, 054305 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.054305)
+[*Nature Communications*, 13(1), 500 (2022)](https://www.nature.com/articles/s41467-022-28183-1)
 
 ---
 
+### ACS Applied Materials & Interfaces (2021)
+
+**Molecular Insights into the Correlation between Microstructure and Thermal Conductivity of Zeolitic Imidazolate Frameworks**
+
+**Ruihuan Cheng**, Wei Li, Wei Wei, Jun Huang, and Song Li* 
+
+[*ACS Applied Materials & Interfaces*, 13(12), 14141–14149 (2021)](https://pubs.acs.org/doi/abs/10.1021/acsami.0c21220)
+
+---
 <p align="right">
 <a href="{{ '/publications/' | relative_url }}">
 <b>View Full Publication List →</b>
@@ -74,18 +82,3 @@ Department of Mechanical Engineering, The University of Hong Kong
 </p>
 
 ---
-
-## Research Interests
-
-* Thermal Transport in Complex Materials
-* Anharmonic Lattice Dynamics
-* Machine-Learning Interatomic Potentials
-* Molecular Dynamics Simulations
-* Heat and Mass Transfer in Energy Materials
-* AI-Driven Materials Discovery
-
----
-
-## Contact
-
-📧 [chengruihuan920@gmail.com](mailto:chengruihuan920@gmail.com)
