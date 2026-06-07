@@ -6,7 +6,7 @@ permalink: /
 
 <div style="margin-top:-2rem;margin-bottom:3rem;">
 
-<img src="{{ '/assets/img/Home/ThermalManager.jpg' | relative_url }}"
+<img src="/assets/img/Home/ThermalManager.jpg"
 alt="Thermal Transport Across Multiple Length Scales"
 style="
 width:100%;
