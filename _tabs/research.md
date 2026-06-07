@@ -35,21 +35,20 @@ My research seeks to uncover the microscopic mechanisms governing thermal transp
 
 <table>
 <tr>
+<td width="60%" markdown="1">
+
+<b>Anharmonic Lattice Dynamics</b>
+
+Anharmonic lattice vibrations play a crucial role in determining thermal conductivity, phase stability, and energy conversion efficiency.
+
+I investigate the interplay between lattice dynamics, multiphonon interactions, dynamic disorder, and temperature-dependent phonon behavior using both perturbative and non-perturbative approaches.
+
+</td>
 <td width="40%">
 
 <img src="/assets/img/Research/ALD.jpg" alt="Anharmonic Lattice Dynamics">
 
 </td>
-
-<td width="60%" markdown="1">
-
-<h2>Anharmonic Lattice Dynamics<h2>
-
-<p>Anharmonic lattice vibrations play a crucial role in determining thermal conductivity, phase stability, and energy conversion efficiency.<p>
-
-<p>I investigate the interplay between lattice dynamics, multiphonon interactions, dynamic disorder, and temperature-dependent phonon behavior using both perturbative and non-perturbative approaches.<p>
-
-</td>
 </tr>
 </table>
 ---
@@ -57,21 +56,20 @@ My research seeks to uncover the microscopic mechanisms governing thermal transp
 
 <table>
 <tr>
+<td width="60%" markdown="1">
+  
+<b>Machine-Learning Interatomic Potential Enabled Molecular Dynamics Simulations</b>
+
+Machine-learning interatomic potentials provide a powerful route to bridge the gap between first-principles accuracy and large-scale molecular simulations.
+
+My work focuses on developing and applying machine-learning frameworks to study thermal transport, lattice dynamics, diffusion processes, and temperature-dependent material properties across broad chemical spaces.
+
+</td>
 <td width="40%">
 
 <img src="/assets/img/Research/MLIP.jpg" alt="Machine-Learning Interatomic Potential Enabled Molecular Dynamics Simulations">
 
 </td>
-
-<td width="60%" markdown="1">
-  
-<h2>Machine-Learning Interatomic Potential Enabled Molecular Dynamics Simulations<h2>
-
-<p>Machine-learning interatomic potentials provide a powerful route to bridge the gap between first-principles accuracy and large-scale molecular simulations.<p>
-
-<p>My work focuses on developing and applying machine-learning frameworks to study thermal transport, lattice dynamics, diffusion processes, and temperature-dependent material properties across broad chemical spaces.<p>
-
-</td>
 </tr>
 </table>
 ---
@@ -80,21 +78,20 @@ My research seeks to uncover the microscopic mechanisms governing thermal transp
 
 <table>
 <tr>
+<td width="60%" markdown="1">
+  
+<b>Heat and Mass Transfer in Energy Materials</b>
+
+Many emerging energy systems involve coupled heat and mass transport processes that govern overall performance and efficiency.
+
+My research explores the interactions between thermal transport, molecular diffusion, adsorption, and energy storage processes, aiming to establish predictive frameworks for next-generation energy materials.
+
+</td>
 <td width="40%">
 
 <img src="/assets/img/Research/HMT.jpg" alt="Heat and Mass Transfer in Energy Materials">
 
 </td>
-
-<td width="60%" markdown="1">
-  
-<h2>Heat and Mass Transfer in Energy Materials<h2>
-
-<p>Many emerging energy systems involve coupled heat and mass transport processes that govern overall performance and efficiency.<p>
-
-<p>My research explores the interactions between thermal transport, molecular diffusion, adsorption, and energy storage processes, aiming to establish predictive frameworks for next-generation energy materials.<p>
-
-</td>
 </tr>
 </table>
 ---
@@ -103,19 +100,18 @@ My research seeks to uncover the microscopic mechanisms governing thermal transp
 
 <table>
 <tr>
+<td width="60%" markdown="1">
+  
+<b>AI-Driven Materials Discovery</b>
+
+A long-term goal of my research is to develop autonomous computational workflows that combine artificial intelligence, high-throughput simulations, and physics-based modeling for accelerated materials discovery.
+
+By integrating machine-learning potentials, lattice dynamics calculations, molecular dynamics simulations, and data-driven analysis, I aim to enable mechanism-guided design of materials with tailored thermal and transport properties.
+
+</td>
 <td width="40%">
 
 <img src="/assets/img/Research/AI4M.jpg" alt="AI-Driven Materials Discovery">
-
-</td>
-
-<td width="60%" markdown="1">
-  
-<h2>AI-Driven Materials Discovery<h2>
-
-<p>A long-term goal of my research is to develop autonomous computational workflows that combine artificial intelligence, high-throughput simulations, and physics-based modeling for accelerated materials discovery.<p>
-
-<p>By integrating machine-learning potentials, lattice dynamics calculations, molecular dynamics simulations, and data-driven analysis, I aim to enable mechanism-guided design of materials with tailored thermal and transport properties.<p>
 
 </td>
 </tr>
