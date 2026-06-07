@@ -8,7 +8,8 @@ A complete list of publications & presentations is available on my [Google Schol
 
 **Author Contribution Notation**
 
-* * Corresponding author, # Co-first author
+- \* Corresponding author
+- \# Co-first author
 ---
 
 # First & Corresponding Author Publications 
@@ -16,7 +17,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/NC_2025.png" alt="Nature Communications cover">
 
@@ -35,7 +36,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/Newton_2025.jpg" alt="Newton cover">
 
@@ -58,7 +59,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/PRB_2024.png" alt="Physical Review B cover">
 
@@ -81,7 +82,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/PRB_2023.png" alt="Physical Review B cover">
 
@@ -100,7 +101,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/JPCB_2023.jpg" alt="Journal of Physical Chemistry B cover">
 
@@ -123,7 +124,7 @@ A complete list of publications & presentations is available on my [Google Schol
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/NC_2022.png" alt="Nature Communications cover">
 
@@ -146,7 +147,7 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/ACSAMI_2021.jpg" alt="ACS Applied Materials and Interfaces cover">
 
@@ -173,7 +174,7 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/JCTC_2025.jpg" alt="Journal of Chemical Theory and Computation cover">
 
@@ -192,7 +193,7 @@ Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/PRB_2025.png" alt="Physical Review B cover">
 
@@ -215,7 +216,7 @@ Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, **Ruihuan Cheng**, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/NC_2024.png" alt="Nature Communications cover">
 
@@ -234,7 +235,7 @@ Zezhu Zeng#, Xingchen Shen#, **Ruihuan Cheng**, Olivier Perez, Niuchang Ouyang, 
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/AFM_2024.jpg" alt="Advanced Functional Materials cover">
 
@@ -253,7 +254,7 @@ Zhanning Liu*, **Ruihuan Cheng**, Rui Ma, Chengyong Xing, Jian Tian, Yue Chen, a
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/InfoMat_2024.jpg" alt="InfoMat cover">
 
@@ -272,7 +273,7 @@ Jianglong Zhu, Fujie Zhang, Yilin Tai, Xiaobo Tan, Qian Deng, Pengfei Nan*, **Ru
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/CEJ_2024.jpg" alt="Chemical Engineering Journal cover">
 
@@ -291,7 +292,7 @@ Jianglong Zhu, Xiaobo Tan, Dong Pan, Yanni Luo, Ruiheng Li, Xuri Rao, **Ruihuan 
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/APL_2024.jpeg" alt="Applied Physics Letters cover">
 
@@ -310,7 +311,7 @@ Shuang Lyu, **Ruihuan Cheng**, Haiqi Li, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/ActaChemChina_2024.jpg" alt="Acta Chimica Sinica cover">
 
@@ -333,7 +334,7 @@ Zijian Tan, Teng Wu, Yajun Qiao, **Ruihuan Cheng**, Wei Li*, and Weixiong Wu
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/MTP_2023.jpg" alt="Materials Today Physics cover">
 
@@ -352,7 +353,7 @@ Dongyi Shen, **Ruihuan Cheng**, Wenxuan Wang, Haiqi Li, Chen Chen, Qian Zhang, a
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/CM_2023.jpg" alt="Chemistry of Materials cover">
 
@@ -371,7 +372,7 @@ Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/Langmuir_2023.jpg" alt="Langmuir cover">
 
@@ -390,7 +391,7 @@ Zhilu Liu, **Ruihuan Cheng**, Juyeong Kim, and Song Li*
 
 <table>
 <tr>
-<td width="15%" markdown="1">
+<td width="15%">
 
 <img src="/assets/img/Publications/PCCP_2023.png" alt="Physical Chemistry Chemical Physics cover">
 
