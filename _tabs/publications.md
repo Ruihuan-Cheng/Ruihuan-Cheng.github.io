@@ -27,7 +27,7 @@ A complete list of publications & presentations is available on my [Google Schol
 </td>
 <td width="15%">
 
-<img src="/assets/img/publications/NC_2025.png" alt="Nature Communications cover" width="100">
+<img src="/assets/img/Publications/NC_2025.png" alt="Nature Communications cover" width="100">
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ A complete list of publications & presentations is available on my [Google Schol
 </td>
 <td width="15%">
 
-<img src="/assets/img/publications/Newton_2025.jpg" alt="Newton cover" width="100">
+<img src="/assets/img/Publications/Newton_2025.jpg" alt="Newton cover" width="100">
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ A complete list of publications & presentations is available on my [Google Schol
 </td>
 <td width="15%">
 
-<img src="/assets/img/publications/PRB_2024.png" alt="Physical Review B cover" width="100">
+<img src="/assets/img/Publications/PRB_2024.png" alt="Physical Review B cover" width="100">
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ A complete list of publications & presentations is available on my [Google Schol
 </td>
 <td width="15%">
 
-<img src="/assets/img/publications/PRB_2023.png" alt="Physical Review B cover" width="100">
+<img src="/assets/img/Publications/PRB_2023.png" alt="Physical Review B cover" width="100">
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ A complete list of publications & presentations is available on my [Google Schol
 </td>
 <td width="15%">
 
-<img src="/assets/img/publications/JPCB_2023.jpg" alt="Journal of Physical Chemistry B cover" width="100">
+<img src="/assets/img/Publications/JPCB_2023.jpg" alt="Journal of Physical Chemistry B cover" width="100">
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 </td>
 <td width="15%">
 
-<img src="/assets/img/publications/NC_2022.png" alt="Nature Communications cover" width="100">
+<img src="/assets/img/Publications/NC_2022.png" alt="Nature Communications cover" width="100">
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 </td>
 <td width="15%">
 
-<img src="/assets/img/publications/ACSAMI_2021.jpg" alt="ACS Applied Materials and Interfaces cover" width="100">
+<img src="/assets/img/Publications/ACSAMI_2021.jpg" alt="ACS Applied Materials and Interfaces cover" width="100">
 
 </td>
 </tr>
