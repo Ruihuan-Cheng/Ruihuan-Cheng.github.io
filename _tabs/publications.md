@@ -45,10 +45,12 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
-**Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>**  
-</h4>
-**Ruihuan Cheng**, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*    
+<p style="font-size:1.1rem;font-weight:600;margin-bottom:8px;">
+<b>Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal 
+  Transport in Cu<sub>4</sub>TiSe<sub>4</sub><b>  
+
+<b>Ruihuan Cheng<b>, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*    
+</p>
 
 [*Newton*, 1(4), 100090 (2025)](https://www.cell.com/newton/fulltext/S2950-6360(25)00082-9)
 
