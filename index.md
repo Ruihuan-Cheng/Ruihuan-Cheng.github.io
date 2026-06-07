@@ -16,12 +16,6 @@ border-radius:12px;
 
 </div>
 
-# Ruihuan Cheng
-
-Research Associate
-
-Department of Mechanical Engineering, The University of Hong Kong
-
 ---
 
 ## Recent News
