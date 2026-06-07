@@ -4,12 +4,11 @@ icon: fas fa-book
 order: 3
 ---
 
-A complete list of publications & presentations is available on my [Google Scholar](https://scholar.google.com.hk/citations?user=wG_KD1IAAAAJ&hl=en&oi=ao) profile.
+**A complete list of publications & presentations is available on my [Google Scholar](https://scholar.google.com.hk/citations?user=wG_KD1IAAAAJ&hl=en&oi=ao) profile.**
 
 **Author Contribution Notation**
 
-- \* Corresponding author
-- \# Co-first author
+- \* Corresponding author, # Co-first author
 ---
 
 # First & Corresponding Author Publications 
