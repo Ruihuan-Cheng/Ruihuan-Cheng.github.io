@@ -1,8 +1,8 @@
 ---
-
-layout: home
+layout: page
 title: Home
-------------
+permalink: /
+---
 
 <div style="margin-top:-2rem;margin-bottom:3rem;">
 
