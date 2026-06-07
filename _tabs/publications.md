@@ -30,6 +30,7 @@ order: 3
 <b>Ruihuan Cheng</b>, Chen Wang, Niuchang Ouyang, Christophe Candolfi, 
   Emmanuel Guilmeau, Xingchen Shen*, and Yue Chen*   
 </p>
+
 [*Nature Communications*, 16(1), 7941 (2025) ](https://www.nature.com/articles/s41467-025-63300-w)
 
 </td>
