@@ -23,13 +23,14 @@ A complete list of publications & presentations is available on my [Google Schol
 
 </td>
 <td width="85%" markdown="1">
-
+  
+<h4 style="white-space: normal;">
 **Strong Crystalline Thermal Insulation Induced by Extended Antibonding States**  
 
 **Ruihuan Cheng**, Chen Wang, Niuchang Ouyang, Christophe Candolfi, Emmanuel Guilmeau, Xingchen Shen*, and Yue Chen*   
 
 [*Nature Communications*, 16(1), 7941 (2025) ](https://www.nature.com/articles/s41467-025-63300-w)
-
+</h4>
 </td>
 </tr>
 </table>
