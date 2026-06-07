@@ -70,10 +70,13 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
-**Impact of Strain-Insensitive Low-Frequency Phonon Modes on Lattice Thermal Transport in A<sub>2</sub>XB<sub>6</sub>-type Perovskites**  
+<h4 style="white-space: normal;font-size:1.15rem;font-weight:600;">
+<b>Impact of Strain-Insensitive Low-Frequency Phonon Modes on Lattice Thermal Transport in A<sub>2</sub>XB<sub>6</sub>-type Perovskites<b>  
 </h4>
-**Ruihuan Cheng**, Zezhu Zeng, Chen Wang, Niuchang Ouyang, and Yue Chen*   
+
+<h4 style="white-space: normal;font-size:1.15rem;font-weight:600;">
+<b>Ruihuan Cheng<b>, Zezhu Zeng, Chen Wang, Niuchang Ouyang, and Yue Chen*   
+</h4>
 
 [*Physical Review B*, 109(5), 054305 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.054305)
 
