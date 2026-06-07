@@ -151,9 +151,9 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 
 ---
 
-## Co-author Publications
+# Co-author Publications
 
-### 2025
+## 2025
 
 <table>
 <tr>
@@ -191,7 +191,7 @@ Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, **Ruihuan Cheng**, and Yue Chen*
 
 ---
 
-### 2024
+## 2024
 
 <table>
 <tr>
@@ -297,7 +297,7 @@ Zijian Tan, Teng Wu, Yajun Qiao, **Ruihuan Cheng**, Wei Li*, and Weixiong Wu
 
 ---
 
-### 2023
+## 2023
 
 <table>
 <tr>
