@@ -16,7 +16,7 @@ My research focuses on understanding and engineering heat transport in energy ma
 <tr>
 <td width="40%">
 
-<img src="/assets/img/LowK.jpg">
+<img src="/assets/img/LowK.jpg" alt="Thermal Transport in Complex Materials">
 
 </td>
 
@@ -38,7 +38,7 @@ My research seeks to uncover the microscopic mechanisms governing thermal transp
 <tr>
 <td width="40%">
 
-<img src="/assets/img/ALD.jpg">
+<img src="/assets/img/ALD.jpg" alt="Anharmonic Lattice Dynamics">
 
 </td>
 
@@ -60,7 +60,7 @@ I investigate the interplay between lattice dynamics, multiphonon interactions, 
 <tr>
 <td width="40%">
 
-<img src="/assets/img/MLIP.jpg">
+<img src="/assets/img/MLIP.jpg" alt="Machine-Learning Interatomic Potential Enabled Molecular Dynamics Simulations">
 
 </td>
 
@@ -83,7 +83,7 @@ My work focuses on developing and applying machine-learning frameworks to study 
 <tr>
 <td width="40%">
 
-<img src="/assets/img/HMT.jpg">
+<img src="/assets/img/HMT.jpg" alt="Heat and Mass Transfer in Energy Materials">
 
 </td>
 
@@ -106,7 +106,7 @@ My research explores the interactions between thermal transport, molecular diffu
 <tr>
 <td width="40%">
 
-<img src="/assets/img/AI4M.jpg">
+<img src="/assets/img/AI4M.jpg" alt="AI-Driven Materials Discovery">
 
 </td>
 
