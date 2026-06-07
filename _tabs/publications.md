@@ -44,11 +44,11 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="margin-top:0;font-size:1.15rem;font-weight:600;">
+<h4 style="white-space: normal;font-size:1.15rem;font-weight:600;">
 <b>Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub><b>  
 </h4>
   
-<h4 style="margin-top:0;font-size:1.15rem;font-weight:600;">
+<h4 style="white-space: normal;font-size:1.15rem;font-weight:600;">
 <b>Ruihuan Cheng<b>, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*    
 </h4>
 
