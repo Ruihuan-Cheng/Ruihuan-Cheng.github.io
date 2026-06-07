@@ -24,7 +24,7 @@ A complete list of publications & presentations is available on my [Google Schol
 </td>
 <td width="85%" markdown="1">
 <p style="font-size:1.1rem;font-weight:600;margin-bottom:8px;">
-**Strong Crystalline Thermal Insulation Induced by Extended Antibonding States** 
+<b>Strong Crystalline Thermal Insulation Induced by Extended Antibonding States<b> 
 </p>
 
 <p style="font-size:1.1rem;font-weight:600;margin-bottom:8px;">
