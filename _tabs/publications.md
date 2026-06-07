@@ -22,11 +22,11 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Strong Crystalline Thermal Insulation Induced by Extended Antibonding States</b> 
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Ruihuan Cheng</b>, Chen Wang, Niuchang Ouyang, Christophe Candolfi, Emmanuel Guilmeau, Xingchen Shen*, and Yue Chen*   
 </h4>
 
@@ -44,11 +44,11 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub></b> 
 </h4>
   
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Ruihuan Cheng</b>, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*    
 </h4>
 
@@ -70,11 +70,11 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Impact of Strain-Insensitive Low-Frequency Phonon Modes on Lattice Thermal Transport in A<sub>2</sub>XB<sub>6</sub>-type Perovskites</b>  
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Ruihuan Cheng</b>, Zezhu Zeng, Chen Wang, Niuchang Ouyang, and Yue Chen*   
 </h4>
 
@@ -96,11 +96,11 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Lattice Dynamics and Thermal Transport of PbTe under High Pressure</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Ruihuan Cheng</b>, Xingchen Shen, Stefan Klotz, Zezhu Zeng, Zehua Li, Alexandre Ivanov, Yu Xiao, Li-Dong Zhao, Frank Weber*, and Yue Chen*    
 </h4>
 
@@ -118,11 +118,11 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Understanding the Heat Transfer Performance of Zeolitic Imidazolate Frameworks upon Gas Adsorption by Molecular Dynamics Simulations</b>  
 </h4>
   
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Ruihuan Cheng</b>, Wei Wei, Jincheng Zhang, and Song Li*    
 </h4>
 
@@ -144,11 +144,11 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Polyamide-based Membranes with Structural Homogeneity for Ultrafast Molecular Sieving</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Liang Shen#, <b>Ruihuan Cheng#</b>, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tian, Xuan Zhang, Shudong Jiang, Song Li*, and Yan Wang*    
 </h4>
 
@@ -170,11 +170,11 @@ Liang Shen#, <b>Ruihuan Cheng#</b>, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian 
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Molecular Insights into the Correlation between Microstructure and Thermal Conductivity of Zeolitic Imidazolate Frameworks</b> 
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Ruihuan Cheng</b>, Wei Li, Wei Wei, Jun Huang, and Song Li*   
 </h4>
 
@@ -198,11 +198,11 @@ Liang Shen#, <b>Ruihuan Cheng#</b>, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian 
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Revisit Many-body Interaction Heat Current and Thermal Conductivity Calculation using the Moment Tensor Potential–LAMMPS Interface</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Siu Ting Tai, Chen Wang, <b>Ruihuan Cheng</b>, and Yue Chen*
 </h4>
 
@@ -220,11 +220,11 @@ Siu Ting Tai, Chen Wang, <b>Ruihuan Cheng</b>, and Yue Chen*
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Positive Temperature-Dependent Thermal Conductivity induced by Wave-like Phonons in Complex Ag-based Argyrodites</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, <b>Ruihuan Cheng</b>, and Yue Chen*
 </h4>
 
@@ -246,11 +246,11 @@ Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, <b>Ruihuan Cheng</b>, and Yue Chen*
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Pushing Thermal Conductivity to its Lower Limit in Crystals with Simple Structures</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Zezhu Zeng#, Xingchen Shen#, <b>Ruihuan Cheng</b>, Olivier Perez, Niuchang Ouyang, Zheyong Fan, Pierric Lemoine, Bernard Raveau, Emmanuel Guilmeau*, and Yue Chen*
 </h4>
 
@@ -268,11 +268,11 @@ Zezhu Zeng#, Xingchen Shen#, <b>Ruihuan Cheng</b>, Olivier Perez, Niuchang Ouyan
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Switching from Negative to Positive Thermal Expansion of Porphyrin-based Metal-Organic Frameworks through Post-Metallization</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Zhanning Liu*, <b>Ruihuan Cheng</b>, Rui Ma, Chengyong Xing, Jian Tian, Yue Chen, and Xianran Xing*
 </h4>
 
@@ -290,11 +290,11 @@ Zhanning Liu*, <b>Ruihuan Cheng</b>, Rui Ma, Chengyong Xing, Jian Tian, Yue Chen
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Enhanced Thermoelectric Performance and Mechanical Strength in GeTe Enable Power Generation and Cooling</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Jianglong Zhu, Fujie Zhang, Yilin Tai, Xiaobo Tan, Qian Deng, Pengfei Nan*, <b>Ruihuan Cheng</b>, Chengliang Xia, Yue Chen, Binghui Ge, and Ran Ang*
 </h4>
 
@@ -312,11 +312,11 @@ Jianglong Zhu, Fujie Zhang, Yilin Tai, Xiaobo Tan, Qian Deng, Pengfei Nan*, <b>R
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Functionally Separated Electronic Band Engineering via Multi-Element Doping plus High-Density Defects Advances Broad-Temperature-Range Thermoelectric Performance in GeTe</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Jianglong Zhu, Xiaobo Tan, Dong Pan, Yanni Luo, Ruiheng Li, Xuri Rao, <b>Ruihuan Cheng</b>, Chengliang Xia, Yue Chen, Qiang Sun*, and Ran Ang*
 </h4>
 
@@ -334,11 +334,11 @@ Jianglong Zhu, Xiaobo Tan, Dong Pan, Yanni Luo, Ruiheng Li, Xuri Rao, <b>Ruihuan
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Effects of Local Chemical Ordering on the Thermal Transport in Entropy-Regulated PbSe-based Thermoelectric Materials</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Shuang Lyu, <b>Ruihuan Cheng</b>, Haiqi Li, and Yue Chen*
 </h4>
 
@@ -356,11 +356,11 @@ Shuang Lyu, <b>Ruihuan Cheng</b>, Haiqi Li, and Yue Chen*
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Molecular Dynamics Simulation Study on the Thermal Conductivity of Zeolitic Imidazolate Framework/n-Eicosane Composite Phase Change Materials</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Zijian Tan, Teng Wu, Yajun Qiao, <b>Ruihuan Cheng</b>, Wei Li*, and Weixiong Wu
 </h4>
 
@@ -382,11 +382,11 @@ Zijian Tan, Teng Wu, Yajun Qiao, <b>Ruihuan Cheng</b>, Wei Li*, and Weixiong Wu
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Enhanced Thermoelectric Performance of p-type Bi<sub>2</sub>Si<sub>2</sub>Te<sub>6</sub> Enabled via Synergistically Optimizing Carrier Concentration and Suppressing Bipolar Effect</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Dongyi Shen, <b>Ruihuan Cheng</b>, Wenxuan Wang, Haiqi Li, Chen Chen, Qian Zhang, and Yue Chen*
 </h4>
 
@@ -404,11 +404,11 @@ Dongyi Shen, <b>Ruihuan Cheng</b>, Wenxuan Wang, Haiqi Li, Chen Chen, Qian Zhang
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Theoretical Evaluation of the Persistence of Transverse Phonons across a Liquid-like Transition in Superionic Conductor KAg<sub>3</sub>Se<sub>2</sub></b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Chen Wang, <b>Ruihuan Cheng</b>, and Yue Chen*
 </h4>
 
@@ -426,11 +426,11 @@ Chen Wang, <b>Ruihuan Cheng</b>, and Yue Chen*
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Ammonia Adsorption Performance of Zeolitic Imidazolate Frameworks for Cooling</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Zhilu Liu, <b>Ruihuan Cheng</b>, Juyeong Kim, and Song Li*
 </h4>
 
@@ -448,11 +448,11 @@ Zhilu Liu, <b>Ruihuan Cheng</b>, Juyeong Kim, and Song Li*
 
 </td>
 <td width="85%" markdown="1">
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 <b>Understanding the Influence of Secondary Building Units on the Thermal Conductivity of Metal–Organic Frameworks via High-Throughput Computational Screening</b>
 </h4>
 
-<h4 style="white-space: normal;">
+<h4 style="white-space: normal; font-size: 1rem; margin-bottom: 0.3rem;">
 Yuanchuang Lin, <b>Ruihuan Cheng</b>, Tiangui Liang, Weixiong Wu, Song Li*, and Wei Li*
 </h4>
 
