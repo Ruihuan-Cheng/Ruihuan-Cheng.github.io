@@ -60,7 +60,7 @@ I investigate the interplay between lattice dynamics, multiphonon interactions, 
 <tr>
 <td width="40%">
 
-<img src="/assets/img/MLIIP.jpg">
+<img src="/assets/img/MLIP.jpg">
 
 </td>
 
