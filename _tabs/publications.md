@@ -22,14 +22,13 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<p style="font-size:1.1rem;font-weight:600;margin-bottom:8px;">
+<h4 style="margin-top:0;font-size:1.15rem;font-weight:600;">
 <b>Strong Crystalline Thermal Insulation Induced by Extended Antibonding States<b> 
-</p>
+</h4>
 
-<p style="font-size:1.1rem;font-weight:600;margin-bottom:8px;">
-<b>Ruihuan Cheng</b>, Chen Wang, Niuchang Ouyang, Christophe Candolfi, 
-  Emmanuel Guilmeau, Xingchen Shen*, and Yue Chen*   
-</p>
+<h4 style="margin-top:0;font-size:1.15rem;font-weight:600;">
+<b>Ruihuan Cheng</b>, Chen Wang, Niuchang Ouyang, Christophe Candolfi, Emmanuel Guilmeau, Xingchen Shen*, and Yue Chen*   
+</h4>
 
 [*Nature Communications*, 16(1), 7941 (2025) ](https://www.nature.com/articles/s41467-025-63300-w)
 
@@ -45,12 +44,13 @@ order: 3
 
 </td>
 <td width="85%" markdown="1">
-<p style="font-size:1.1rem;font-weight:600;margin-bottom:8px;">
-<b>Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal 
-  Transport in Cu<sub>4</sub>TiSe<sub>4</sub><b>  
-
+<h4 style="margin-top:0;font-size:1.15rem;font-weight:600;">
+<b>Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub><b>  
+</h4>
+  
+<h4 style="margin-top:0;font-size:1.15rem;font-weight:600;">
 <b>Ruihuan Cheng<b>, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*    
-</p>
+</h4>
 
 [*Newton*, 1(4), 100090 (2025)](https://www.cell.com/newton/fulltext/S2950-6360(25)00082-9)
 
