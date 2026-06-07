@@ -165,7 +165,7 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 <td width="85%">
 
 **Revisit Many-body Interaction Heat Current and Thermal Conductivity Calculation using the Moment Tensor Potential–LAMMPS Interface**
-*Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
+**Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 [*Journal of Chemical Theory and Computation*, 21(7), 3649–3657 (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c01659)
 
 </td>
