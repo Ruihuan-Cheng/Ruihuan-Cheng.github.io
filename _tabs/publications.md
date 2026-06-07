@@ -149,7 +149,7 @@ order: 3
 </h4>
 
 <h4 style="white-space: normal;">
-Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tian, Xuan Zhang, Shudong Jiang, Song Li*, and Yan Wang*    
+Liang Shen#, <b>Ruihuan Cheng#</b>, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tian, Xuan Zhang, Shudong Jiang, Song Li*, and Yan Wang*    
 </h4>
 
 [*Nature Communications*, 13(1), 500 (2022)](https://www.nature.com/articles/s41467-022-28183-1)
