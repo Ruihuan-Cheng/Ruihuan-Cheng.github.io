@@ -48,7 +48,7 @@ order: 3
 <b>Atomic Hopping Induced Dynamic Disorder Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub><b>  
 </h4>
   
-<h4 style="white-space: normal;font-size:1.15rem;">
+<h4 style="white-space: normal;">
 <b>Ruihuan Cheng<b>, Wenxuan Wang, Chen Wang, Siu Ting Tai, Niuchang Ouyang, and Yue Chen*    
 </h4>
 
@@ -97,11 +97,11 @@ order: 3
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Lattice Dynamics and Thermal Transport of PbTe under High Pressure**
+<b>Lattice Dynamics and Thermal Transport of PbTe under High Pressure<b>
 </h4>
 
 <h4 style="white-space: normal;">
-**Ruihuan Cheng**, Xingchen Shen, Stefan Klotz, Zezhu Zeng, Zehua Li, Alexandre Ivanov, Yu Xiao, Li-Dong Zhao, Frank Weber*, and Yue Chen*    
+<b>Ruihuan Cheng<b>, Xingchen Shen, Stefan Klotz, Zezhu Zeng, Zehua Li, Alexandre Ivanov, Yu Xiao, Li-Dong Zhao, Frank Weber*, and Yue Chen*    
 </h4>
 
 [*Physical Review B*, 108(10), 104306 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104306)
@@ -119,12 +119,13 @@ order: 3
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Understanding the Heat Transfer Performance of Zeolitic Imidazolate Frameworks upon Gas Adsorption by Molecular Dynamics Simulations**  
+<b>Understanding the Heat Transfer Performance of Zeolitic Imidazolate Frameworks upon Gas Adsorption by Molecular Dynamics Simulations<b>  
 </h4>
   
 <h4 style="white-space: normal;">
-**Ruihuan Cheng**, Wei Wei, Jincheng Zhang, and Song Li*    
+<b>Ruihuan Cheng<b>, Wei Wei, Jincheng Zhang, and Song Li*    
 </h4>
+
 [*The Journal of Physical Chemistry B*, 127(43), 9390–9398 (2023)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c04372)
 
 </td>
@@ -144,7 +145,7 @@ order: 3
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Polyamide-based Membranes with Structural Homogeneity for Ultrafast Molecular Sieving**
+<b>Polyamide-based Membranes with Structural Homogeneity for Ultrafast Molecular Sieving<b>
 </h4>
 
 <h4 style="white-space: normal;">
@@ -170,11 +171,11 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Molecular Insights into the Correlation between Microstructure and Thermal Conductivity of Zeolitic Imidazolate Frameworks**  
+<b>Molecular Insights into the Correlation between Microstructure and Thermal Conductivity of Zeolitic Imidazolate Frameworks<b> 
 </h4>
 
 <h4 style="white-space: normal;">
-**Ruihuan Cheng**, Wei Li, Wei Wei, Jun Huang, and Song Li*   
+<b>Ruihuan Cheng<b>, Wei Li, Wei Wei, Jun Huang, and Song Li*   
 </h4>
 
 [*ACS Applied Materials & Interfaces*, 13(12), 14141–14149 (2021)](https://pubs.acs.org/doi/abs/10.1021/acsami.0c21220)
@@ -198,11 +199,11 @@ Liang Shen#, **Ruihuan Cheng#**, Ming Yi#, Wei-Song Hung, Susilo Japip, Lian Tia
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Revisit Many-body Interaction Heat Current and Thermal Conductivity Calculation using the Moment Tensor Potential–LAMMPS Interface**
+<b>Revisit Many-body Interaction Heat Current and Thermal Conductivity Calculation using the Moment Tensor Potential–LAMMPS Interface<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
+Siu Ting Tai, Chen Wang, <b>Ruihuan Cheng<b>, and Yue Chen*
 </h4>
 
 [*Journal of Chemical Theory and Computation*, 21(7), 3649–3657 (2025)](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c01659)
@@ -220,11 +221,11 @@ Siu Ting Tai, Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Positive Temperature-Dependent Thermal Conductivity induced by Wave-like Phonons in Complex Ag-based Argyrodites**
+<b>Positive Temperature-Dependent Thermal Conductivity induced by Wave-like Phonons in Complex Ag-based Argyrodites<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, **Ruihuan Cheng**, and Yue Chen*
+Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, <b>Ruihuan Cheng<b>, and Yue Chen*
 </h4>
 
 [*Physical Review B*, 111(6), 064307 (2025)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.064307)
@@ -246,11 +247,11 @@ Niuchang Ouyang#, Dongyi Shen#, Chen Wang#, **Ruihuan Cheng**, and Yue Chen*
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Pushing Thermal Conductivity to its Lower Limit in Crystals with Simple Structures**
+<b>Pushing Thermal Conductivity to its Lower Limit in Crystals with Simple Structures<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Zezhu Zeng#, Xingchen Shen#, **Ruihuan Cheng**, Olivier Perez, Niuchang Ouyang, Zheyong Fan, Pierric Lemoine, Bernard Raveau, Emmanuel Guilmeau*, and Yue Chen*
+Zezhu Zeng#, Xingchen Shen#, <b>Ruihuan Cheng<b>, Olivier Perez, Niuchang Ouyang, Zheyong Fan, Pierric Lemoine, Bernard Raveau, Emmanuel Guilmeau*, and Yue Chen*
 </h4>
 
 [*Nature Communications*, 15(1), 3007 (2024)](https://www.nature.com/articles/s41467-024-46799-3)
@@ -268,11 +269,11 @@ Zezhu Zeng#, Xingchen Shen#, **Ruihuan Cheng**, Olivier Perez, Niuchang Ouyang, 
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Switching from Negative to Positive Thermal Expansion of Porphyrin-based Metal-Organic Frameworks through Post-Metallization**
+<b>Switching from Negative to Positive Thermal Expansion of Porphyrin-based Metal-Organic Frameworks through Post-Metallization<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Zhanning Liu*, **Ruihuan Cheng**, Rui Ma, Chengyong Xing, Jian Tian, Yue Chen, and Xianran Xing*
+Zhanning Liu*, <b>Ruihuan Cheng<b>, Rui Ma, Chengyong Xing, Jian Tian, Yue Chen, and Xianran Xing*
 </h4>
 
 [*Advanced Functional Materials*, 35(3), 2413290 (2024)](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202413290)
@@ -290,11 +291,11 @@ Zhanning Liu*, **Ruihuan Cheng**, Rui Ma, Chengyong Xing, Jian Tian, Yue Chen, a
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Enhanced Thermoelectric Performance and Mechanical Strength in GeTe Enable Power Generation and Cooling**
+<b>Enhanced Thermoelectric Performance and Mechanical Strength in GeTe Enable Power Generation and Cooling<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Jianglong Zhu, Fujie Zhang, Yilin Tai, Xiaobo Tan, Qian Deng, Pengfei Nan*, **Ruihuan Cheng**, Chengliang Xia, Yue Chen, Binghui Ge, and Ran Ang*
+Jianglong Zhu, Fujie Zhang, Yilin Tai, Xiaobo Tan, Qian Deng, Pengfei Nan*, <b>Ruihuan Cheng<b>, Chengliang Xia, Yue Chen, Binghui Ge, and Ran Ang*
 </h4>
 
 [*InfoMat*, 6(4), e12514 (2024)](https://onlinelibrary.wiley.com/doi/full/10.1002/inf2.12514)
@@ -312,11 +313,11 @@ Jianglong Zhu, Fujie Zhang, Yilin Tai, Xiaobo Tan, Qian Deng, Pengfei Nan*, **Ru
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Functionally Separated Electronic Band Engineering via Multi-Element Doping plus High-Density Defects Advances Broad-Temperature-Range Thermoelectric Performance in GeTe**
+<b>Functionally Separated Electronic Band Engineering via Multi-Element Doping plus High-Density Defects Advances Broad-Temperature-Range Thermoelectric Performance in GeTe<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Jianglong Zhu, Xiaobo Tan, Dong Pan, Yanni Luo, Ruiheng Li, Xuri Rao, **Ruihuan Cheng**, Chengliang Xia, Yue Chen, Qiang Sun*, and Ran Ang*
+Jianglong Zhu, Xiaobo Tan, Dong Pan, Yanni Luo, Ruiheng Li, Xuri Rao, <b>Ruihuan Cheng<b>, Chengliang Xia, Yue Chen, Qiang Sun*, and Ran Ang*
 </h4>
 
 [*Chemical Engineering Journal*, 480, 148135 (2024)](https://www.sciencedirect.com/science/article/abs/pii/S1385894723068675)
@@ -334,11 +335,11 @@ Jianglong Zhu, Xiaobo Tan, Dong Pan, Yanni Luo, Ruiheng Li, Xuri Rao, **Ruihuan 
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Effects of Local Chemical Ordering on the Thermal Transport in Entropy-Regulated PbSe-based Thermoelectric Materials**
+<b>Effects of Local Chemical Ordering on the Thermal Transport in Entropy-Regulated PbSe-based Thermoelectric Materials<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Shuang Lyu, **Ruihuan Cheng**, Haiqi Li, and Yue Chen*
+Shuang Lyu, <b>Ruihuan Cheng<b>, Haiqi Li, and Yue Chen*
 </h4>
 
 [*Applied Physics Letters*, 124 (23), 232202 (2024)](https://pubs.aip.org/aip/apl/article-abstract/124/23/232202/3296508/Effects-of-local-chemical-ordering-on-the-thermal?redirectedFrom=fulltext)
@@ -356,11 +357,11 @@ Shuang Lyu, **Ruihuan Cheng**, Haiqi Li, and Yue Chen*
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Molecular Dynamics Simulation Study on the Thermal Conductivity of Zeolitic Imidazolate Framework/n-Eicosane Composite Phase Change Materials**
+<b>Molecular Dynamics Simulation Study on the Thermal Conductivity of Zeolitic Imidazolate Framework/n-Eicosane Composite Phase Change Materials<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Zijian Tan, Teng Wu, Yajun Qiao, **Ruihuan Cheng**, Wei Li*, and Weixiong Wu
+Zijian Tan, Teng Wu, Yajun Qiao, <b>Ruihuan Cheng<b>, Wei Li*, and Weixiong Wu
 </h4>
 
 [*Acta Chimica Sinica*, 82(12), 1193-1201 (2024)](https://sioc-journal.cn/Jwk_hxxb/EN/10.6023/A24090259)
@@ -382,11 +383,11 @@ Zijian Tan, Teng Wu, Yajun Qiao, **Ruihuan Cheng**, Wei Li*, and Weixiong Wu
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Enhanced Thermoelectric Performance of p-type Bi<sub>2</sub>Si<sub>2</sub>Te<sub>6</sub> Enabled via Synergistically Optimizing Carrier Concentration and Suppressing Bipolar Effect**
+<b>Enhanced Thermoelectric Performance of p-type Bi<sub>2</sub>Si<sub>2</sub>Te<sub>6</sub> Enabled via Synergistically Optimizing Carrier Concentration and Suppressing Bipolar Effect<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Dongyi Shen, **Ruihuan Cheng**, Wenxuan Wang, Haiqi Li, Chen Chen, Qian Zhang, and Yue Chen*
+Dongyi Shen, <b>Ruihuan Cheng<b>, Wenxuan Wang, Haiqi Li, Chen Chen, Qian Zhang, and Yue Chen*
 </h4>
 
 [*Materials Today Physics*, 37, 101185 (2023)](https://www.sciencedirect.com/science/article/abs/pii/S2542529323002213)
@@ -404,11 +405,11 @@ Dongyi Shen, **Ruihuan Cheng**, Wenxuan Wang, Haiqi Li, Chen Chen, Qian Zhang, a
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Theoretical Evaluation of the Persistence of Transverse Phonons across a Liquid-like Transition in Superionic Conductor KAg<sub>3</sub>Se<sub>2</sub>**
+<b>Theoretical Evaluation of the Persistence of Transverse Phonons across a Liquid-like Transition in Superionic Conductor KAg<sub>3</sub>Se<sub>2</sub><b>
 </h4>
 
 <h4 style="white-space: normal;">
-Chen Wang, **Ruihuan Cheng**, and Yue Chen*
+Chen Wang, <b>Ruihuan Cheng<b>, and Yue Chen*
 </h4>
 
 [*Chemistry of Materials*, 35(4), 1780–1787 (2023)](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c03658)
@@ -426,11 +427,11 @@ Chen Wang, **Ruihuan Cheng**, and Yue Chen*
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Ammonia Adsorption Performance of Zeolitic Imidazolate Frameworks for Cooling**
+<b>Ammonia Adsorption Performance of Zeolitic Imidazolate Frameworks for Cooling<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Zhilu Liu, **Ruihuan Cheng**, Juyeong Kim, and Song Li*
+Zhilu Liu, <b>Ruihuan Cheng<b>, Juyeong Kim, and Song Li*
 </h4>
 
 [*Langmuir*, 39(41), 14726–14736 (2023)](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.3c02098)
@@ -448,11 +449,11 @@ Zhilu Liu, **Ruihuan Cheng**, Juyeong Kim, and Song Li*
 </td>
 <td width="85%" markdown="1">
 <h4 style="white-space: normal;">
-**Understanding the Influence of Secondary Building Units on the Thermal Conductivity of Metal–Organic Frameworks via High-Throughput Computational Screening**
+<b>Understanding the Influence of Secondary Building Units on the Thermal Conductivity of Metal–Organic Frameworks via High-Throughput Computational Screening<b>
 </h4>
 
 <h4 style="white-space: normal;">
-Yuanchuang Lin, **Ruihuan Cheng**, Tiangui Liang, Weixiong Wu, Song Li*, and Wei Li*
+Yuanchuang Lin, <b>Ruihuan Cheng<b>, Tiangui Liang, Weixiong Wu, Song Li*, and Wei Li*
 </h4>
 
 [*Physical Chemistry Chemical Physics*, 25(47), 32407–32415 (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp04640k/unauth)
