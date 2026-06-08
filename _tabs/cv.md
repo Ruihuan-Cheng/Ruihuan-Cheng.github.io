@@ -14,7 +14,7 @@ height="1000">
 
 <p>
 Your browser does not support embedded PDFs.
-<a href="{{ '/assets/Files/CV_Ruihuan_Cheng_CV.pdf' | relative_url }}">
+<a href="{{ '/assets/Files/Ruihuan_Cheng_CV.pdf' | relative_url }}">
 Download the PDF
 </a>.
 </p>
