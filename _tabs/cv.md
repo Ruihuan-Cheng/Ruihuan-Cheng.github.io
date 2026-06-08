@@ -1,5 +1,5 @@
 ---
 title: CV
 icon: fas fa-file-pdf
-order: 5
+order: 6
 ---
