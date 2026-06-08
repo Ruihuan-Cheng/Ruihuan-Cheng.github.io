@@ -36,6 +36,12 @@ My research focuses on understanding heat transport in crystalline materials thr
 * Teaching Assistant for MECH3407 Advanced Partial Differential Equations and Complex Variables, The University of Hong Kong, 2022.09 -- 2025.09
 * Certificate in Teaching and Learning in Higher Education, The University of Hong Kong, 2024.03
 
+<!--
+## Professional Service
+
+* Reviewer for *Nature Communications*, *Newton*, *Angewandte Chemie International Edition*, *Nano Letters*, *Materials Today Physics*, and *Journal of Rare Earths*.
+-->
+
 ## Contact
 
 * Email: [chengrh1@hku.hk](mailto:chengrh1@hku.hk) / [chengrh@connect.hku.hk](mailto:chengrh@connect.hku.hk) / [chengruihuan920@gmail.com](mailto:chengruihuan920@gmail.com)
