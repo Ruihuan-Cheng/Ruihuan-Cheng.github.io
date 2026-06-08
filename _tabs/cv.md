@@ -4,8 +4,6 @@ icon: fas fa-file-pdf
 order: 6
 ---
 
-# Curriculum Vitae
-
 <object
 data="{{ '/assets/Files/Ruihuan_Cheng_CV.pdf' | relative_url }}"
 type="application/pdf"
