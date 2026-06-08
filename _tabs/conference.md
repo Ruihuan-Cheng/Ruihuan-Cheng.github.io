@@ -4,8 +4,6 @@ icon: fas fa-chalkboard-user
 order: 4
 ---
 
-# Conference & Academic Activities
-
 This page summarizes selected conference presentations, invited talks, and academic activities.
 
 ---
