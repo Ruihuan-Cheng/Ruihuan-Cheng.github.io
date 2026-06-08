@@ -443,26 +443,3 @@ Yuanchuang Lin, <b>Ruihuan Cheng</b>, Tiangui Liang, Weixiong Wu, Song Li*, and 
 </tr>
 </table>
 
-
-# Presentations
-
-## 2024
-
-**Strong Phonon Scattering and Suppressed Thermal Transport in Cu<sub>4</sub>TiSe<sub>4</sub>**  
-**Oral report**, The joint 40th International and 20th European Thermoelectric Conference, Krakow, Poland.
-
-## 2023
-
-**Lattice Dynamics and Thermal Transport of PbTe under High Pressure**  
-**Poster**, Croucher Summer Course on Neutron Scattering, Hong Kong SAR, China.
-
-**Anomalous Pressure Dependence of Lattice Dynamics in PbTe: A Simulation Study**  
-**Oral report**, APS March Meeting 2023, Las Vegas, USA.
-
-## 2020
-
-**Molecular Simulation Study on the Structure of Zeolitic Imidazolate Framework and Its Correlation with Thermal Conductivity**  
-**Poster**, 2020 China Engineering Thermophysics Annual Conference on Heat and Mass Transfer, Guangzhou, China.
-
-
-
